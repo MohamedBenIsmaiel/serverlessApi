@@ -1,0 +1,25 @@
+{
+  "name": "serverlessApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-offline": "^5.12.1"
+  },
+  "scripts": {
+    "dev": "sls offline start --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedBenIsmaiel/serverlessApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedBenIsmaiel/serverlessApi/issues"
+  },
+  "homepage": "https://github.com/MohamedBenIsmaiel/serverlessApi#readme"
+}
